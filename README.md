@@ -3,7 +3,7 @@ Spams GAC (Grab Activation Code) SMS to a phone number repeatedly per 60 second.
 
 # Installation ( For Debian and Ubuntu )
 1. `sudo apt install git` - To install git
-2. `git clone https://github.com/Noxturnix/Spammer-Grab` - To clone a FIXED version
+2. `git clone https://github.com/UMARMG/SPAMMER-GRAP-UMG-Grab` - To clone a FIXED version
 3. `cd Spammer-Grab` - To enter the directory of this git
 4. `./auto-install.sh` - To install all required packages and python modules
 
