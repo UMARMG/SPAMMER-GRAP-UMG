@@ -13,5 +13,5 @@ Just type `python2 spammer.py -h` to show the help message.
 # Me
 G-Mail:
 umarmodugana24@gmail.com.id (owner)
-admin@noxt.cf (fixer)
+admin@UMG.cf (fixer)
 Do not hesitate to contact us :)
